@@ -14,13 +14,6 @@ I am Senior Frontend developer with 10+ years in IT/ITeS, 08 years in Figma/prot
 
 Having expertise knowledge in online website builders like WIX, SHOPIFY, Duda & Elementor/Wordpress. Recently built a Next.js PDF reading RAG extractor and custom Spotify/Audio API for horse data with TypeScript/Tailwind. Skills include React, Next.js, Node.js, Express, MongoDB, MySQL, Figma, and Adobe tools. Designer & photographer, best in image editing and restoration.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Website-devokdev.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devokdev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rohanrit-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanrit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritesh--rohan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-rohan-419599197)
 [![CodePen](https://img.shields.io/badge/CodePen-rohanrit-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rohanrit)
 
@@ -131,5 +124,33 @@ Having expertise knowledge in online website builders like WIX, SHOPIFY, Duda & 
 ### Quick Links
 [Art Gallery Ecommerce](https://art-gallery-ecommerce-web.vercel.app/) • [second](#)
 
-### Quick Links
-[Website](https://devokdev.com) • [GitHub](https://github.com/rohanrit) • [LinkedIn](https://linkedin.com/in/ritesh-rohan-419599197) • [CodePen](https://codepen.io/rohanrit)
+## 🌐 Portfolio
+
+| Project | Live Link |
+| :--- | :--- |
+| **Legendary Goal Co** | [legendarygoalco.com](https://legendarygoalco.com/)[cite: 1] |
+| **ScoreMyTalent** | [scoremytalent.com](https://scoremytalent.com/)[cite: 1] |
+| **Intellectscoop Media** | [intellectscoop.com](https://intellectscoop.com/)[cite: 1] |
+| **Knorish Platform** | [knorish.com](https://knorish.com/)[cite: 1] |
+| **Xmate Marketplace** | [xmate.com.au](https://www.xmate.com.au/)[cite: 1] |
+| **Haves** | [haves.co.in](https://haves.co.in/)[cite: 1] |
+| **Knorish Blog** | [knorish.com/blog](https://knorish.com/blog/)[cite: 1] |
+| **Knorish SSO Templates** | [sso.knorish.com/templates](https://sso.knorish.com/templates)[cite: 1] |
+| **Sanjeev Kapoor Academy** | [sanjeevkapooracademy.com](https://sanjeevkapooracademy.com/)[cite: 1] |
+| **Abhay Gupta** | [abhaygupta.in](https://abhaygupta.in/)[cite: 1] |
+| **Rishi Bhatnagar** | [rishibhatnagar.in](https://rishibhatnagar.in/)[cite: 1] |
+| **Luxury Connect** | [luxuryconnect.in](https://luxuryconnect.in/)[cite: 1] |
+| **IGX India** | [igxindia.com](https://www.igxindia.com/)[cite: 1] |
+| **GetSmarte** | [getsmarte.in](https://getsmarte.in/)[cite: 1] |
+| **Aditya World School** | [adityaworld.school](https://adityaworld.school/)[cite: 1] |
+| **ICBS** | [lcbs.edu.in](https://lcbs.edu.in/)[cite: 1] |
+| **DPS Dubai** | [website.dpsdubai.com](https://website.dpsdubai.com/)[cite: 1] |
+| **Advancells** | [advancells.com](https://www.advancells.com/)[cite: 1] |
+| **Purple Coach** | [purple.coach](https://purple.coach/)[cite: 1] |
+| **Beewise** | [beewise.in](https://beewise.in/)[cite: 1] |
+| **Knorish Academy** | [academy.knorish.com](https://academy.knorish.com/)[cite: 1] |
+| **Vetalyze** | [vetalyze.com.au](https://www.vetalyze.com.au/)[cite: 1] |
+| **Standardbred Trader** | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/)[cite: 1] |
+| **Preppp** | [preppp.com](https://www.preppp.com/)[cite: 1] |
+| **Greenbits** | [greenbits.co.in](https://greenbits.co.in)[cite: 1] |
+
