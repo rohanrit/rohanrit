@@ -14,7 +14,7 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritesh--rohan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-rohan-419599197)
 [![CodePen](https://img.shields.io/badge/CodePen-rohanrit-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rohanrit)
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-ritesh-rohan-6010537?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stackoverflow.com/users/6010537/ritesh-rohan)
+[![Ritesh Rohan's Stack Overflow Profile](https://stackoverflow.com/users/flair/6010537.png)](https://stackoverflow.com/users/6010537/ritesh-rohan)
 
 ---
 
