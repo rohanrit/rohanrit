@@ -57,8 +57,8 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 ## 🌟 Featured Independent Engagements & 💻 My Projects
 
-| Project | Description |
-| :--- | :--- |
+| Project | Description | Links |
+| :--- | :--- | :--- |
 | **ScoreMyTalent:** | AI-driven recruitment and candidate screening portal with automated skills-based scoring dashboards. | [scoremytalent.com](https://scoremytalent.com/) |
 | **Legendary Goal Co:** | Custom responsive digital brand portal and landing platform. | [legendarygoalco.com](https://legendarygoalco.com/) |
 | **Intellectscoop Media:** | UI/UX redesign and frontend component optimization for a global AdTech monetization platform. | [intellectscoop.com](https://intellectscoop.com/) |
