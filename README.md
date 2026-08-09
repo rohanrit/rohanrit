@@ -55,20 +55,7 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 ---
 
-## 🌟 Featured Independent Engagements & 💻 My Projects
-
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **ScoreMyTalent:** | AI-driven recruitment and candidate screening portal with automated skills-based scoring dashboards. | [scoremytalent.com](https://scoremytalent.com/) |
-| **Legendary Goal Co:** | Custom responsive digital brand portal and landing platform. | [legendarygoalco.com](https://legendarygoalco.com/) |
-| **Intellectscoop Media:** | UI/UX redesign and frontend component optimization for a global AdTech monetization platform. | [intellectscoop.com](https://intellectscoop.com/) |
-| **Xmate Marketplace:** | Pedigree search platform engineered with React.js, Node.js, and complex pedigree tree data structures. | [xmate.com.au](https://www.xmate.com.au/) |
-| **Standardbred Trader:** | Specialized marketplace web application built with CodeIgniter (PHP) and MySQL. | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
-| **Beewise Digital Platform:** | High-performance WordPress platform with custom themes, automated SEO pipelines, and speed optimizations. | [beewise.in](https://beewise.in/) |
-
----
-
-## 🌐 Portfolio
+## 🌐 Portfolio & 💻 My Projects
 
 | Project | Live Link |
 | :--- | :--- |
@@ -97,6 +84,19 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 | **Standardbred Trader** | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
 | **Preppp** | [preppp.com](https://www.preppp.com/) |
 | **Greenbits** | [greenbits.co.in](https://greenbits.co.in) |
+
+---
+
+## 🌟 Featured Independent Engagements
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **ScoreMyTalent:** | AI-driven recruitment and candidate screening portal with automated skills-based scoring dashboards. | [scoremytalent.com](https://scoremytalent.com/) |
+| **Legendary Goal Co:** | Custom responsive digital brand portal and landing platform. | [legendarygoalco.com](https://legendarygoalco.com/) |
+| **Intellectscoop Media:** | UI/UX redesign and frontend component optimization for a global AdTech monetization platform. | [intellectscoop.com](https://intellectscoop.com/) |
+| **Xmate Marketplace:** | Pedigree search platform engineered with React.js, Node.js, and complex pedigree tree data structures. | [xmate.com.au](https://www.xmate.com.au/) |
+| **Standardbred Trader:** | Specialized marketplace web application built with CodeIgniter (PHP) and MySQL. | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
+| **Beewise Digital Platform:** | High-performance WordPress platform with custom themes, automated SEO pipelines, and speed optimizations. | [beewise.in](https://beewise.in/) |
 
 ---
 
