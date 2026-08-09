@@ -1,7 +1,3 @@
-# Dev**OK**Dev
-
----
-
 ## Hi there, It's Me  
 # **Ritesh Rohan**
 
@@ -67,9 +63,9 @@ Having expertise knowledge in online website builders like WIX, SHOPIFY, Duda & 
 
 - 📍 **Location:** Gurgaon, Haryana
 - 📧 **Email:** riteshrohan@gmail.com
-- 🐙 **GitHub:** [github.com/riteshrohan](https://github.com/riteshrohan)
+- ☎️ **Contact:** Coming soon
 
 ---
 
 ### Quick Links
-[Home](#) • [About](#) • [Services](#) • [Portfolio](#) • [Projects](#)
+[Art Gallery Ecommerce](https://art-gallery-ecommerce-web.vercel.app/) • [second](#)
