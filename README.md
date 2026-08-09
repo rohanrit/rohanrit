@@ -55,59 +55,16 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 ---
 
-## 💻 My Projects
+## 🌟 Featured Independent Engagements & 💻 My Projects
 
 | Project | Description |
 | :--- | :--- |
-| **Teq-Off-Next** | Next.js Powered Platform |
-| **Tevio UI** | Modern Component Library & UI Kit |
-| **E-commerce Portal** | Full-Featured Online Shopping Platform |
-| **EdTech Platform** | Interactive Learning Management System |
-| **Web App Dashboard** | Real-Time Data Monitoring Interface |
-| **SaaS Landing Page** | High-Converting Product Landing Layout |
-
----
-
-## 🌟 Featured Independent Engagements & Portfolio
-
-- **ScoreMyTalent:** [scoremytalent.com](https://scoremytalent.com/) AI-driven recruitment and candidate screening portal with automated skills-based scoring dashboards.
-- **Legendary Goal Co:** [legendarygoalco.com](https://legendarygoalco.com/) Custom responsive digital brand portal and landing platform.
-- **Intellectscoop Media:** [intellectscoop.com](https://intellectscoop.com/) UI/UX redesign and frontend component optimization for a global AdTech monetization platform.
-- **Xmate Marketplace:** [xmate.com.au](https://www.xmate.com.au/) Pedigree search platform engineered with React.js, Node.js, and complex pedigree tree data structures.
-- **Standardbred Trader:**  [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) Specialized marketplace web application built with CodeIgniter (PHP) and MySQL.
-- **Beewise Digital Platform:** [beewise.in](https://beewise.in/) High-performance WordPress platform with custom themes, automated SEO pipelines, and speed optimizations.
-
----
-
-## 💼 Work Experience
-
-### **Lead Frontend Engineer & Design Technologist**
-**DataEntrega / MOED (Remote)** | *Mar 2026 – Present*
-- Leading design and User Experience of complete UI solutions for two major client products.
-- Driving UI/UX design from concept to implementation, including logo design, design systems, and brand guidelines.
-- Designing candidate screening workflows with automated resume upload scoring dashboards, RBAC SSO login interfaces, and meeting management tools.
-
-### **Senior Frontend Developer**
-**SOCi / Testriq Labs (Remote)** | *Sep 2024 – Dec 2025*
-- Maintained client locator and local pages for US-based enterprise clients (SOCi) to optimize user accessibility, engagement, and SEO.
-- Improved website performance and boosted Google PageSpeed Insight scores by 30% through deep code refactoring.
-- Mentored 5 junior colleagues, enhancing overall design and code quality.
-
-### **Frontend Developer & Design Lead**
-**Knorish / Scientity (Delhi NCR)** | *Sep 2016 – Aug 2024*
-- Architected custom AI-powered drag-and-drop website builder modules, admin dashboards, and landing page engines.
-- Standardized output with responsive, mobile-first design systems and frameworks.
-- Received multiple awards and certifications for outstanding contributions to UI/UX, design, and coding.
-
----
-
-### Core Skills
-- **HTML** `████████████████████` 90%
-- **CSS** `█████████████████░░░` 85%
-- **JAVASCRIPT** `████████████████░░░░` 80%
-- **REACT.JS** `███████████████░░░░░` 75%
-- **TAILWIND CSS** `█████████████████░░░` 85%
-- **NODE.JS** `██████████████░░░░░░` 70%
+| **ScoreMyTalent:** | AI-driven recruitment and candidate screening portal with automated skills-based scoring dashboards. | [scoremytalent.com](https://scoremytalent.com/) |
+| **Legendary Goal Co:** | Custom responsive digital brand portal and landing platform. | [legendarygoalco.com](https://legendarygoalco.com/) |
+| **Intellectscoop Media:** | UI/UX redesign and frontend component optimization for a global AdTech monetization platform. | [intellectscoop.com](https://intellectscoop.com/) |
+| **Xmate Marketplace:** | Pedigree search platform engineered with React.js, Node.js, and complex pedigree tree data structures. | [xmate.com.au](https://www.xmate.com.au/) |
+| **Standardbred Trader:** | Specialized marketplace web application built with CodeIgniter (PHP) and MySQL. | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
+| **Beewise Digital Platform:** | High-performance WordPress platform with custom themes, automated SEO pipelines, and speed optimizations. | [beewise.in](https://beewise.in/) |
 
 ---
 
@@ -140,6 +97,38 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 | **Standardbred Trader** | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
 | **Preppp** | [preppp.com](https://www.preppp.com/) |
 | **Greenbits** | [greenbits.co.in](https://greenbits.co.in) |
+
+---
+
+## 💼 Work Experience
+
+### **Lead Frontend Engineer & Design Technologist**
+**DataEntrega / MOED (Remote)** | *Mar 2026 – Present*
+- Leading design and User Experience of complete UI solutions for two major client products.
+- Driving UI/UX design from concept to implementation, including logo design, design systems, and brand guidelines.
+- Designing candidate screening workflows with automated resume upload scoring dashboards, RBAC SSO login interfaces, and meeting management tools.
+
+### **Senior Frontend Developer**
+**SOCi / Testriq Labs (Remote)** | *Sep 2024 – Dec 2025*
+- Maintained client locator and local pages for US-based enterprise clients (SOCi) to optimize user accessibility, engagement, and SEO.
+- Improved website performance and boosted Google PageSpeed Insight scores by 30% through deep code refactoring.
+- Mentored 5 junior colleagues, enhancing overall design and code quality.
+
+### **Frontend Developer & Design Lead**
+**Knorish / Scientity (Delhi NCR)** | *Sep 2016 – Aug 2024*
+- Architected custom AI-powered drag-and-drop website builder modules, admin dashboards, and landing page engines.
+- Standardized output with responsive, mobile-first design systems and frameworks.
+- Received multiple awards and certifications for outstanding contributions to UI/UX, design, and coding.
+
+---
+
+### Core Skills
+- **HTML** `████████████████████` 90%
+- **CSS** `█████████████████░░░` 85%
+- **JAVASCRIPT** `████████████████░░░░` 80%
+- **REACT.JS** `███████████████░░░░░` 75%
+- **TAILWIND CSS** `█████████████████░░░` 85%
+- **NODE.JS** `██████████████░░░░░░` 70%
 
 ---
 
