@@ -123,12 +123,15 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 ---
 
 ### Core Skills
-- **HTML** `████████████████████` 90%
-- **CSS** `█████████████████░░░` 85%
-- **JAVASCRIPT** `████████████████░░░░` 80%
-- **REACT.JS** `███████████████░░░░░` 75%
-- **TAILWIND CSS** `█████████████████░░░` 85%
-- **NODE.JS** `██████████████░░░░░░` 70%
+
+| Tech | Experties |
+| :--- | :--- |
+| **HTML/HTML5** | `████████████████████` |
+| **CSS/SCSS** | `█████████████████░░░` |
+| **JAVASCRIPT** | `████████████████░░░` |
+| **REACT.JS** | `███████████████░░░░░` |
+| **NODE.JS** | `██████████████░░░░░░` |
+| **FIGMA** | `████████████████████` |
 
 ---
 
@@ -136,6 +139,6 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 - 📍 **Location:** Gurgaon, Haryana
 - 📧 **Email:** riteshrohan@gmail.com
-- ☎️ **Contact:** Contact me on ([Linkedin](https://linkedin.com/in/ritesh-rohan-419599197))
+- ☎️ **Contact me:** on ([Linkedin](https://linkedin.com/in/ritesh-rohan-419599197))
 
 ---
