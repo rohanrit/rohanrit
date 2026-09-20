@@ -60,31 +60,31 @@ Beyond hands-on development, I am deeply passionate about web performance, desig
 
 | Project | Live Link |
 | :--- | :--- |
-| **Legendary Goal Co** | [legendarygoalco.com](https://legendarygoalco.com/) |
-| **ScoreMyTalent** | [scoremytalent.com](https://scoremytalent.com/) |
-| **Intellectscoop Media** | [intellectscoop.com](https://intellectscoop.com/) |
-| **Knorish Platform** | [knorish.com](https://knorish.com/) |
-| **Xmate Marketplace** | [xmate.com.au](https://www.xmate.com.au/) |
-| **Haves** | [haves.co.in](https://haves.co.in/) |
-| **Knorish Blog** | [knorish.com/blog](https://knorish.com/blog/) |
-| **Knorish SSO Templates** | [sso.knorish.com/templates](https://sso.knorish.com/templates) |
-| **Sanjeev Kapoor Academy** | [sanjeevkapooracademy.com](https://sanjeevkapooracademy.com/) |
-| **Abhay Gupta** | [abhaygupta.in](https://abhaygupta.in/) |
-| **Rishi Bhatnagar** | [rishibhatnagar.in](https://rishibhatnagar.in/) |
-| **Luxury Connect** | [luxuryconnect.in](https://luxuryconnect.in/) |
-| **IGX India** | [igxindia.com](https://www.igxindia.com/) |
-| **GetSmarte** | [getsmarte.in](https://getsmarte.in/) |
-| **Aditya World School** | [adityaworld.school](https://adityaworld.school/) |
-| **ICBS** | [lcbs.edu.in](https://lcbs.edu.in/) |
-| **DPS Dubai** | [website.dpsdubai.com](https://website.dpsdubai.com/) |
-| **Advancells** | [advancells.com](https://www.advancells.com/) |
-| **Purple Coach** | [purple.coach](https://purple.coach/) |
-| **Beewise** | [beewise.in](https://beewise.in/) |
-| **Knorish Academy** | [academy.knorish.com](https://academy.knorish.com/) |
-| **Vetalyze** | [vetalyze.com.au](https://www.vetalyze.com.au/) |
-| **Standardbred Trader** | [standardbredtrader.com.au](https://www.standardbredtrader.com.au/) |
-| **Preppp** | [preppp.com](https://www.preppp.com/) |
-| **Greenbits** | [greenbits.co.in](https://greenbits.co.in) |
+| **Legendary Goal Co** | <a href="https://legendarygoalco.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **ScoreMyTalent** | <a href="https://scoremytalent.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Intellectscoop Media** | <a href="https://intellectscoop.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Knorish Platform** | <a href="https://knorish.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Xmate Marketplace** | <a href="https://www.xmate.com.au/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Haves** | <a href="https://haves.co.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Knorish Blog** | <a href="https://knorish.com/blog/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Knorish SSO Templates** | <a href="https://sso.knorish.com/templates" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Sanjeev Kapoor Academy** | <a href="https://sanjeevkapooracademy.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Abhay Gupta** | <a href="https://abhaygupta.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Rishi Bhatnagar** | <a href="https://rishibhatnagar.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Luxury Connect** | <a href="https://luxuryconnect.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **IGX India** | <a href="https://www.igxindia.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **GetSmarte** | <a href="https://getsmarte.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Aditya World School** | <a href="https://adityaworld.school/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **ICBS** | <a href="https://lcbs.edu.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **DPS Dubai** | <a href="https://website.dpsdubai.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Advancells** | <a href="https://www.advancells.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Purple Coach** | <a href="https://purple.coach/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Beewise** | <a href="https://beewise.in/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Knorish Academy** | <a href="https://academy.knorish.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Vetalyze** | <a href="https://www.vetalyze.com.au/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Standardbred Trader** | <a href="https://www.standardbredtrader.com.au/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Preppp** | <a href="https://www.preppp.com/" target="_blank" rel="noopener noreferrer">Live Website</a> |
+| **Greenbits** | <a href="https://greenbits.co.in" target="_blank" rel="noopener noreferrer">Live Website</a> |
 
 ---
 
